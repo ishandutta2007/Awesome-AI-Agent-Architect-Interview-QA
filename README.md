@@ -99,6 +99,17 @@ This is meant to be a living, community-curated resource. See [CONTRIBUTING.md](
 
 Content is released under the [MIT License](LICENSE) — free to use, fork, and adapt.
 
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-AI-Agent-Architect-Interview-QA&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Agent-Architect-Interview-QA&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Agent-Architect-Interview-QA&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Agent-Architect-Interview-QA&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ---
 
 *Maintained by [@ishandutta2007](https://github.com/ishandutta2007). Part of a series of "Awesome" curated technical resources.*
