@@ -98,4 +98,3 @@ Content is released under the [MIT License](LICENSE) — free to use, fork, and 
 ---
 
 *Maintained by [@ishandutta2007](https://github.com/ishandutta2007). Part of a series of "Awesome" curated technical resources.*
-# Awesome-AI-Agent-Architect-Interview-QA
