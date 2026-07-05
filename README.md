@@ -4,11 +4,11 @@
   <img src="assets/banner.svg" alt="Awesome AI Agent Architect Interview Q&A Banner" width="100%">
 </p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-✨ A curated, no-fluff collection of **AI Agent Architect interview questions with answers**, organized by topic. Built for candidates prepping for AI Agent Architect, Agentic AI Engineer, LLM Application Architect, and Multi-Agent Systems Engineer roles — and for interviewers building question banks.
+✨ A curated, no-fluff collection of **AI Agent Architect interview questions with answers**, organized by topic. This comprehensive guide is built for candidates prepping for AI Agent Architect, Agentic AI Engineer, LLM Application Architect, and Multi-Agent Systems Engineer roles. It covers key concepts like LLM orchestration, function calling, agentic RAG, memory systems, and multi-agent frameworks, making it the ultimate resource for interview preparation and for interviewers building question banks.
 
 > 📎 **Scope note:** "AI Agent Architect" here refers to the role — increasingly distinct as of 2025-2026 — that designs and builds **agentic AI systems**: LLM-driven agents that plan, use tools, maintain memory, and often coordinate with other agents to accomplish multi-step tasks with a degree of autonomy. This is a different (complementary) focus from the [Awesome-AIOps-Engineer-Interview-QA](https://github.com/ishandutta2007/Awesome-AIOps-Engineer-Interview-QA) repo in this series, which covers *operating* AI/ML/LLM systems in production infrastructure — this repo instead covers *designing the agent's architecture itself*: how it reasons, plans, uses tools, remembers, coordinates with other agents, and stays safe and controllable while doing so.
 
